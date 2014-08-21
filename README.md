@@ -1,4 +1,4 @@
 nej-portrait
 ============
 
-Portrait resources for NEJ Framework
+Portrait Resources for NEJ Framework
